@@ -13,6 +13,10 @@ How to use
 
 If you actually want to install it in dev mode, here's how to do it: 
 
+You need to download the [latest release first](https://github.com/Symerizer/fse-rentable-aircrafts/releases/latest) and extract it anywhere on your computer.
+
+Then, follow this image from Chrome Developers page:
+
 ![Image from Imgur](https://i.imgur.com/HFykjCV.png)
 
 If you're not comfortable with doing that, I suggest you wait for the official store release.
