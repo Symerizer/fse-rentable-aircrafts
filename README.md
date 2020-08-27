@@ -9,7 +9,10 @@ Demo
 
 How to use
 ---
-1. Install the extension on the Chrome Extension store (link to come once it's all setup).
+1. Install the extension on the Chrome Extension store (link to come, I have to wait for the extension to be reviewed).
+
+If you actually want to install it in dev mode, here's how to do it: ![Image from Imgur](https://i.imgur.com/HFykjCV.png)
+If you're not comfortable with doing that, I suggest you wait for the official store release.
 
 2. Go to the extensions options and add your access key. You can retrieve your key by following this [link](https://server.fseconomy.net/datafeeds.jsp).
 
