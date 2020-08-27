@@ -29,5 +29,5 @@ Future
 - Firefox soon enough. This is my first extension, but I'm pretty sure porting that won't be complicated.
 - Adding revelant links to some things in the table, maybe expand on the full plane info when clicking on the registration? You tell me.
 
-Poke me on Discord @Symerizer if you have any trouble with it or for suggestions. It's also open source, so have fun if you want to add stuff. 
+Poke me on Discord @Symerizer#7850 if you have any trouble with it or for suggestions. It's also open source, so have fun if you want to add stuff. 
 
