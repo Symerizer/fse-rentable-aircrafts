@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Aircrafts by ICAO for FSE",
+  "version": "0.1",
+  "permissions": [
+    "storage"
+  ],
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": true
+  },
+  "web_accessible_resources": ["./style.css"],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://server.fseconomy.net/groupassignments.jsp*"
+      ],
+      "js": ["./content.js"],
+      "css": ["./style.css"]
+    }
+  ]
+}
