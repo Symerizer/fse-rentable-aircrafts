@@ -11,15 +11,13 @@ How to use
 ---
 1. Install the extension on the Chrome Extension store (link to come, I have to wait for the extension to be reviewed).
 
-If you actually want to install it in dev mode, here's how to do it: 
-
-You need to download the [latest release first](https://github.com/Symerizer/fse-rentable-aircrafts/releases/latest){:target="_blank"} and extract it anywhere on your computer.
-
-Then, follow this image from Chrome Developers page:
-
-![Image from Imgur](https://i.imgur.com/HFykjCV.png)
-
-If you're not comfortable with doing that, I suggest you wait for the official store release.
+>If you actually want to install it in dev mode, here's how to do it: 
+>You need to download the [latest release first](https://github.com/Symerizer/fse-rentable-aircrafts/releases/latest) and extract it anywhere on your computer.
+>
+>Then, follow this image from Chrome Developers page:
+>![Image from Imgur](https://i.imgur.com/HFykjCV.png)
+>
+>If you're not comfortable doing that, I suggest you wait for the official store release.
 
 2. Go to the extensions options and add your access key. You can retrieve your key by following this [link](https://server.fseconomy.net/datafeeds.jsp).
 
@@ -27,7 +25,7 @@ If you're not comfortable with doing that, I suggest you wait for the official s
 
 Why?
 ---
-Because doing 4 clicks to see if a plane is rentable is tedious and I'm lazy.
+Because doing 4 clicks to see if a plane is rentable is tedious, and I'm lazy.
 
 Limits
 ---
