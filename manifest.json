@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Aircrafts by ICAO for FSE",
-  "version": "0.1",
+  "name": "FSE Rentable Aircrafts",
+  "version": "0.0.1",
   "permissions": [
     "storage"
   ],
